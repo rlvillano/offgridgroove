@@ -1,0 +1,40 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: #0e0e0e;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: #111;
+    text-align: center;
+    padding: 2em 1em;
+}
+header h1 {
+    font-size: 3em;
+    margin: 0;
+    text-transform: uppercase;
+}
+header p {
+    font-size: 1.2em;
+    color: #aaa;
+}
+nav a {
+    margin: 0 10px;
+    color: #f39c12;
+    text-decoration: none;
+    font-weight: bold;
+}
+section {
+    padding: 2em;
+    max-width: 800px;
+    margin: auto;
+}
+footer {
+    background: #111;
+    text-align: center;
+    padding: 1em;
+    font-size: 0.9em;
+    color: #666;
+}
